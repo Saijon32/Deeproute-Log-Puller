@@ -1,4 +1,4 @@
-Original created by the Legendary Dr Foster
+Original created by Rick Wight and Garrett Foster - This is an HTTPS/manifest update. 
 
 A chrome extension that allows players to download the game logs for the DeepRoute.com football game.
 
